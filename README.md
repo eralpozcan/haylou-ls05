@@ -105,7 +105,6 @@ Issues and pull requests are welcome, especially for:
 - The watch-face file format.
 - Notification sources for Linux (D-Bus) and Windows.
 - Confirming whether other Haylou models use the same protocol.
-- Getting [Gadgetbridge](https://gadgetbridge.org) support added — see [GADGETBRIDGE.md](GADGETBRIDGE.md).
 
 ## License
 
