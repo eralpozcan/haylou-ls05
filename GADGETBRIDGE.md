@@ -2,9 +2,13 @@
 
 Draft text for a new issue at https://codeberg.org/Freeyourgadget/Gadgetbridge/issues
 
+Filed as: https://codeberg.org/Freeyourgadget/Gadgetbridge/issues/7009
+
 ---
 
 **Title:** Support request: Haylou Solar LS05-1 (UTE/"Youcy" byte protocol), protocol fully documented
+
+**Full protocol spec, command captures and a working Python/bleak client:** https://github.com/eralpozcan/haylou-ls05 (`PROTOCOL.md`, `haylou.py`).
 
 **Device:** Haylou Solar LS05-1. It advertises as `Haylou Solar` with manufacturer id `0x534C` and data `3c 02 05 31 …`. Firmware `RH192IBV003006`. The chip is a Realtek RTL876x, and the watch exposes Realtek's OTA service `d0ff-3c17-d293-8e48-14fe2e4da212`.
 
